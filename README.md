@@ -16,6 +16,11 @@
 )](https://www.notion.so/6ce2ba5ea7774d208a6465a595c9a670?v=7efc6b1f612942c59942fb12c0057a79
 )
   
+### That's Mine
+ [![MOBI Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/That-s-Mine-82e614a8eead4eb180b96ea0fbebae3b
+)](https://www.notion.so/That-s-Mine-82e614a8eead4eb180b96ea0fbebae3b
+)
+
 </div>
 
 
